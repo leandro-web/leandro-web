@@ -1,7 +1,6 @@
 ## Olá eu sou o Leandro Oliveira, programador desde 2011!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Atuo bem em equipe, atendendo os objetivos de cada projeto com bom relacionamento interpessoal, mantendo o ambiente de trabalho saudável e motivador respeitando os prazos e organização utilizando metodologias ágeis. 
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
